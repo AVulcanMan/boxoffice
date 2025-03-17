@@ -28,6 +28,8 @@ This project uses Python to scrape and analyze movie discussions from the **r/bo
 
 Example Output:
 🎬 Top Trending Movies with Sentiment Analysis:
-Avengers Endgame | Mentions: 30 | Sentiment: Positive: 70% | Negative: 30% 
-Spider-Man No Way Home | Mentions: 25 | Sentiment: Positive: 80% | Negative: 20% 
-Joker | Mentions: 20 | Sentiment: Positive: 50% | Negative: 50%
+| Movie Title              | Mentions | Sentiment                          |
+|--------------------------|----------|-------------------------------------|
+| Avengers Endgame         | 30       | Positive: 70% | Negative: 30%      |
+| Spider-Man No Way Home   | 25       | Positive: 80% | Negative: 20%      |
+| Joker                    | 20       | Positive: 50% | Negative: 50%      |
